@@ -30,15 +30,3 @@ So if you want to set a commit message just pass it as a argument, like this:
 ```
 
 
-Fist it creates a folder called "PUSH_FOLDER", 
-then it's cloned only the branch "gh-pages" from github.
-The directory is temporaly changed to "PUSH_FOLDER". 
-In the directory it 
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
