@@ -11,7 +11,11 @@ then push your site's static files to GitHub.*"
 Thus this script was created to avoid the boring proccess of build and push the static files to the branch gh-pages wich time I upload my personal site/blog in Jekyll.
  
 ## Getting Started
-First you should allow this script to run as a executable in your machine so with Bash/Git Bash run: 
+
+First you will need to have the branch gh-pages already created in your repository.
+After that make sure the BUILD_FOLDER (_site) and the PUSH_FOLDER (_site_ghpages) are ignored by your gitignore.
+
+To execute the script you should allow it to run as a executable in your machine, to do so with Bash/Git Bash run: 
 
 ```
 chmod u+x push_ghpages.sh
