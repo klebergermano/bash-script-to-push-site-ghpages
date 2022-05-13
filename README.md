@@ -1,4 +1,4 @@
-# script-bash-push-ghpages
+# push-ghpages-script-sh
 
 A script (push_ghpages.sh) used to automatically deploy a [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll) website/blog with third party plugins to GitHub Pages.
 
