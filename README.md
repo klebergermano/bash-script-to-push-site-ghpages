@@ -26,7 +26,7 @@ PUSH_FOLDER=**'_site_ghpages'***
 ## Getting Started
 To use it make sure of:
 - Ignore the BUILD_FOLDER and the PUSH_FOLDER in the .gitignore file; 
-- Already have a empty branch called "**gh-pages**" created in your repository. (After use the script this branch should have only the static files of the build folder)
+- Already have a empty branch called "**gh-pages**" created in your repository. (After use the script this branch should have only the static files of the build folder).
 
 To execute the script first you should allow it to run as a executable in your machine, to do so, with Bash/Git Bash run: 
 
